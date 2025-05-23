@@ -1,0 +1,20 @@
+site_name: Volo's guide to Linux
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - user.color_mode.toggle
+    - user.color_mode.auto
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
