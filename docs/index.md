@@ -12,8 +12,8 @@ Ovaj vodič nije ništa revolucionarno, već samo moj _passion project_ s kojim 
 ## 📒Pregled poglavlja  
 Klikom na <span title="tri horizontalne crte u gornjem desnom kutu stranice"> __padajući izbornik</span>__ možete vidjeti sva trenutno objavljena poglavlja.  
 Početnicima savjetujem najprije pročitati uvodne teme.  
-❌ [Zašto NE koristiti Linux]()  
+❌ [Zašto NE koristiti Linux](zasto-ne-korisiti-linux.md)  
 ✅ [Zašto koristiti Linux]()  
 ❔ [Kako krenuti korisiti Linux]()  
 Neke čitatelje bi moglo zanimati i   
-⁉️ [Što je Linux]()  
+⁉️ [Što je Linux](sto-je-linux.md)  
