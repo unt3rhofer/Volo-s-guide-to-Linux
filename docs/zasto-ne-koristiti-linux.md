@@ -16,5 +16,5 @@ Zbog filozofije sigurnosti i privatnosti nad Linux jezgrom nisu dozvoljeni "kern
 To nije jedini, ali je glavni razlog zašto neke igrice ne rade na Linuxu. Za detalje o nekog igri koja vas zanima, škicnite [protondb](https://www.protondb.com/).
 
 ## 🎬 Adobe aplikacije
-Adobe aplikacije ne rade na Linuxu, ali za sve njih postoje kvalitetne zamjene u open-source svijetu.  
-Valja napomenuti kako je Adobe jedna od najpohlepnijih i najneugodnijih kompanija koja se prema svojim korisnicima ponaša kao da su maloumni zbog čega potičem sve na bojkot njihovih proizvoda bez obzira na to koji OS koriste.
+Adobe aplikacije ne rade na Linuxu, ali za sve njih postoje kvalitetne open-source alternative.    
+Valja napomenuti kako je Adobe jedna od najpohlepnijih i najneugodnijih kompanija koja se grozno odnosi prema svojim korisnicima zbog čega potičem sve na bojkot njihovih proizvoda bez obzira na to koji OS koriste.

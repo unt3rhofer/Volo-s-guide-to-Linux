@@ -1,4 +1,4 @@
-# 🐧Volo's guide to Linux 
+# 🐧[Volo's guide](https://en.wikipedia.org/wiki/Volo%27s_Guide_to_Monsters) to Linux 
 
 !!!quote "Već na samom početku moram istaknuti jednu nepravilnost u naslovu"
     I'd just like to interject for a moment. What you're refering to as Linux, is in fact, GNU/Linux, or as I've recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.
@@ -12,8 +12,8 @@ Ovaj vodič nije ništa revolucionarno, već samo moj _passion project_ s kojim 
 ## 📒Pregled poglavlja  
 Klikom na <span title="tri horizontalne crte u gornjem desnom kutu stranice"> __padajući izbornik</span>__ možete vidjeti sva trenutno objavljena poglavlja.  
 Početnicima savjetujem najprije pročitati uvodne teme.  
-❌ [Zašto NE koristiti Linux](zasto-ne-korisititi-linux.md)  
-✅ [Zašto koristiti Linux]()  
+❌ [Zašto NE koristiti Linux](zasto-ne-koristiti-linux.md)  
+✅ [Zašto koristiti Linux](zasto-koristiti-linux.md)  
 ❔ [Kako krenuti korisiti Linux]()  
 Neke čitatelje bi moglo zanimati i   
 ⁉️ [Što je Linux](sto-je-linux.md)  
