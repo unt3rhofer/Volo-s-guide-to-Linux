@@ -14,3 +14,7 @@ Sličan alat SolidWorksu koji također nema podršku za Linux ni dostojnu FOSS a
 (i još neke igre)  
 Zbog filozofije sigurnosti i privatnosti nad Linux jezgrom nisu dozvoljeni "kernel-level-anticheats" koji su potrebni za pokretanje ovih igrica.  
 To nije jedini, ali je glavni razlog zašto neke igrice ne rade na Linuxu. Za detalje o nekog igri koja vas zanima, škicnite [protondb](https://www.protondb.com/).
+
+## 🎬 Adobe aplikacije
+Adobe aplikacije ne rade na Linuxu, ali za sve njih postoje kvalitetne zamjene u open-source svijetu.  
+Valja napomenuti kako je Adobe jedna od najpohlepnijih i najneugodnijih kompanija koja se prema svojim korisnicima ponaša kao da su maloumni zbog čega potičem sve na bojkot njihovih proizvoda bez obzira na to koji OS koriste.
