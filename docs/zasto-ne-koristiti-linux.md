@@ -11,9 +11,8 @@ Ovo je jedan od rijetkih u mojim očima sasim opravdanih razloga za ostanak na W
 Sličan alat SolidWorksu koji također nema podršku za Linux ni dostojnu FOSS alternativu.
 
 ## 🎮 Valorant, Apex Legends, (neki) Call of Duty, Destiny 2, R6
-(i još neke igre)  
-Zbog filozofije sigurnosti i privatnosti nad Linux jezgrom nisu dozvoljeni "kernel-level-anticheats" koji su potrebni za pokretanje ovih igrica.  
-To nije jedini, ali je glavni razlog zašto neke igrice ne rade na Linuxu. Za detalje o nekog igri koja vas zanima, škicnite [protondb](https://www.protondb.com/).
+(i još neke igre)
+
 
 ## 🎬 Adobe aplikacije
 Adobe aplikacije ne rade na Linuxu, ali za sve njih postoje kvalitetne open-source alternative.    
